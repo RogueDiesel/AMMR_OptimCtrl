@@ -1,4 +1,4 @@
-Nc = 4; Nf = 20;
+Nc = 40; Nf = 20;
 figure
 plot(Phi'*y(1:2*Nf))  %x2(flap speed) time plot
 hold on
